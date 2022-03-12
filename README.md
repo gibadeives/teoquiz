@@ -80,11 +80,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ##  [](https://github.com/gibadeives/teoquiz#--autor) Autor
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/58277487?v=4" width="100px;" alt="Gilberto Cruz"/>
 <br />
-<sub><b>Gilberto Cruz</b></sub></a>
+<sub><b>Feito por Gilberto Cruz</b></sub></a>
+<br />
 <br />
 
-Feito por Gilberto Cruz 
-Entre em contato pelo:
+Entre em contato via:
 
 [![ Linkedin Badge ](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-cruz-80654139/ )](https://www.linkedin.com/in/gilberto-cruz-80654139/) 
 ---
