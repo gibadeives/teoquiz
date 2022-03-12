@@ -10,7 +10,7 @@
   </a>  
 </p>
 <h1 align="center" style="preenchimento: 50px; fundo: # 333333 ;">
-    <img alt="brunoquiz" title="#brunoquiz" src="https://raw.githubusercontent.com/gibadeives/teoquiz/main/public/logo.png" />
+    <img alt="teoquiz" title="#teoquiz" src="https://raw.githubusercontent.com/gibadeives/teoquiz/main/public/logo.png" />
 </h1>
 <h4 align="center">
 	TEOQUIZ
@@ -78,13 +78,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Hospedagem** ( **[ Vercel ](https://vercel.com/)** ) 
 ---
 ##  [](https://github.com/gibadeives/teoquiz#--autor) Autor
-<img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/40339324?s=460&u=4f5a7b83aa4e018b4eccbeaa1f6a6b8b04e0e4b7&v=4" width="100px;" alt="Gilberto Cruz"/>
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/58277487?v=4" width="100px;" alt="Gilberto Cruz"/>
 <br />
 <sub><b>Gilberto Cruz</b></sub></a>
 <br />
+
 Feito por Gilberto Cruz 👋 Entre em contato!
 [![ Linkedin Badge ](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-cruz-80654139/ )](https://www.linkedin.com/in/gilberto-cruz-80654139/)
 [![ Emblema do Whatsapp ](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send? phone=5512991881366&text=Olá!)](https://api.whatsapp.com/send?phone=5512991881366&text=Olá!)
+
 ---
 ##  [](https://github.com/gibadeives/teoquiz#--licença) 📝 Licença
 Este projeto esta sobe a licença MIT.
