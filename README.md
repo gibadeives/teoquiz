@@ -83,11 +83,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <sub><b>Gilberto Cruz</b></sub></a>
 <br />
 
-Feito por Gilberto Cruz 👋 Entre em contato!
+Feito por Gilberto Cruz 
+Entre em contato pelo:
 
 [![ Linkedin Badge ](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-cruz-80654139/ )](https://www.linkedin.com/in/gilberto-cruz-80654139/) 
-[![ Emblema do Whatsapp ](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send? phone=5512991881366&text=Olá!)](https://api.whatsapp.com/send?phone=5512991881366&text=Olá!)
-
 ---
 
 ##  [](https://github.com/gibadeives/teoquiz#--licença) 📝 Licença
