@@ -10,7 +10,7 @@
   </a>  
 </p>
 <h1 align="center" style="preenchimento: 50px; fundo: # 333333 ;">
-    <img alt="TEOQUIZ" title="#teoquiz" src="https://raw.githubusercontent.com/gibadeives/teoquiz/main/public/logo.png" />
+    <img alt="W A R" title="#teoquiz" src="https://raw.githubusercontent.com/gibadeives/teoquiz/main/public/logo.png" />
 </h1>
 <h4 align="center">
 	TEOQUIZ
@@ -26,7 +26,7 @@
 
 ![](https://raw.githubusercontent.com/gibadeives/teoquiz/main/public/screenshot.png)
 
-Veja a [ demonstração ](https://teoquiz.gibadeives.vercel.app/).
+Veja a [ demonstração ](https://teoquiz-gibadeives.vercel.app/).
 
 ##  [](https://github.com/gibadeives/teoquiz#--sobre-o-projeto) 💻 Sobre o projeto
 

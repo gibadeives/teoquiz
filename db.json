@@ -1,45 +1,45 @@
+
 {
-  "bg": "https://www.hitalent.co/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmJDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1452099b706ad7d079f7a3a4dd5d702ebeeae45f/HiTalent.png",
+  "bg": "https://images.pexels.com/photos/87772/soldiers-military-usa-weapons-87772.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
     "title": "Quiz JavaScript #TeoQuiz",
-    "description": "Um quiz rápido sobre a escrita antiga",
+    "description": "Um quiz rápido sobre a Guerra",
     "questions": [
       {
         "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-        "title": "Qual a diferença entre = , == e === ?",
+        "title": "Qual foi a causa da Primeira Guerra Mundial?",
         "description": "Pergunta fácil em!",
-        "answer": 1,
+        "answer": 0,
         "alternatives": [
-          "São a mesma coisa",
-          "O = significa atribuição de valor. Já == verifica a igualdade do valor, enquanto === verifica valor e tipo de variável."
+          "O fato que deflagrou a Primeira Guerra foi o assassinato do arquiduque Francisco Ferdinando, herdeiro do trono austríaco, e sua esposa no dia 28 de junho de 1914.",
+          "O fato da União Soviética ter estabelecido acampamentos militares em 1914 nas terras Polonesas em Sarajevo, capital da Bósnia."
         ]
       },
       {
         "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
-        "title": "Que tipos de dados são suportados em JavaScript?",
+        "title": "Qual foi a principal causa da Segunda Guerra Mundial?",
         "description": "E agora? Você sabe?",
-        "answer": 0,
+        "answer": 1,
         "alternatives": [
-          "Number, String, Undefined, Null e Bool.",
-          "Int, String, Undefined, Null e Bool."
+          " A Segunda Guerra Mundial teve como principal causa os lançamentos das bombas atômicas direciondas para a China.",
+          "A Segunda Guerra Mundial teve como causa direta o expansionismo da Alemanha nazista ao longo da década de 1930. O estopim para o conflito deu-se com a invasão da Polônia realizada pelos alemães, em setembro de 1939."
         ]
       },
       {
         "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-        "title": "Qual a diferença de window e global?",
+        "title": "Podemos ter a terceira guerra mundial?",
         "answer": 1,
         "alternatives": [
-          "São a mesma coisa",
-          "window é o escopo global no browser, e global no node"
+          "Segundo o comunicado oficial da ONU em 23 fevereiro de 2022, temos uma grande probabilidade deste acotencimento devidos os poderes políticos do leste europeu estarem propenso a ganância pelo poder em nome da paz mundial",
+          "Apesar de ser improvável, a especialista ressalta que não é algo completamente impossível. Segundo Ayres, a pequena chance do início de uma terceira guerra está ligada diretamente às ações do presidente russo. — É muito improvável uma nova guerra mundial, a não ser que o Putin ataque o Ocidente."
         ]
       },
       {
         "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-        "title": "Qual a forma antiga de trabalhar com AJAX na Web?",
+        "title": "A Guerra entre Rússia e Ucrânia afentam de alguma forma o nosso pais?",
         "answer": 1,
         "alternatives": [
-          "JSONHttpRequest",
-          "XMLHttpRequest",
-          "fetch"
+          "Não, sempre estamos trabalhando, comendo pizza, descansando e curtindo aos finais de semana e não se importando com o que acontece fora da nossa sociedade.",
+          "Sim, alta nos combustíveis, alta da moeda americana, alta na inflação, alta da pressão arterial e alta na taxa de mortos por falta de comida para as pessoas mais necessitadas afetadas pela economia do pais."
         ]
       }
     ],

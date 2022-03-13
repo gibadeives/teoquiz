@@ -9,6 +9,13 @@ const Widget = styled.div`
   overflow: hidden;
   align-items: center;
   color: white;
+  color: white;
+    text-decoration: none;
+    transition: .5s;
+    &:hover,
+    &:focus {
+      opacity: .7;
+    }
 
   h1, h2, h3 {
     font-size: 16px;

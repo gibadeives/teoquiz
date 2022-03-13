@@ -11,29 +11,34 @@ export default function Home() {
   return (
     <QuizBackground backgroundImage={db.bg} >
       <QuizContainer>
-        <Widget>
-          <h1>Titulo</h1>
+        <Widget >
+          <h1>#TEOQUIZ</h1>
           <Widget.Header>
             <Widget.Content>
-              <p>Bla, bla, bla bla bla</p>
+              <p>Clique aqui para jogar</p>
             </Widget.Content>
           </Widget.Header>
         </Widget>
-        
         <Widget>
-          <h1>Titulo 2</h1>
+          <h1>Quiz da Comunidade</h1>
           <Widget.Header>
             <Widget.Content>
-              <p>Bla, bla, bla bla bla</p>
+              <div>
+                <a href={db.external} >omariosouto</a>
+              </div>
+              <div>
+                <a href={db.external} >devsoutinho.omariosouto</a>
+              </div>
             </Widget.Content>
           </Widget.Header>
         </Widget>
 
-        
+
         <FooterWrapper />
       </QuizContainer>
       <GitHubCorner projectUrl={"https://github.com/gibadeives"} />
     </QuizBackground>
+
 
   )
 
