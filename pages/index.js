@@ -5,6 +5,7 @@ import FooterWrapper from '../src/components/Footer'
 import GitHubCorner from '../src/components/GitHubCorner'
 import QuizBackground from '../src/components/QuizBackground'
 import QuizContainer from '../src/components/QuizContainer'
+import QuizLogo from '../src/components/QuizLogo'
 import Head from 'next/head'
 import React from 'react'
 import { useRouter } from 'next/router'
@@ -21,6 +22,7 @@ export default function Home() {
         <title>TEOQUIZ - W A R</title>
       </Head>
       <QuizContainer>
+      <QuizLogo />
         <Widget >
           <h1>#TEOQUIZ</h1>
           <Widget.Header>
